@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
    height: 100%;
     padding: 0;
-    background-image: url('afbeeldingen/tinderplaatje.jpg');
+    background-image: url('afbeeldingen/tinderplaatje.jpeg');
     background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
