@@ -90,3 +90,10 @@ https://validator.w3.org/
 ## Credits
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
 - ...
+
+
+## Bewaren
+-  <div class="kolomStop"></div>
+
+    
+      <div class="kolomMidden"></div> 
