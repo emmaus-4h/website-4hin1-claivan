@@ -69,13 +69,13 @@ p {
   padding-bottom: 0%; 
 }
 .kolomRechts {
-  float: none;
-  width: 450px;
+  float: left;
+  width: 550px;
   color: white;
 }
 .kolomMidden {
   float: left;
-  width: 500px;
+  width: 450px;
   padding-top: 20px;
   color: black;
 }
