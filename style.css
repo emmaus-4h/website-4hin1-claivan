@@ -80,6 +80,10 @@ p {
   color: black;
 }
 
+img.tinderlogo{
+  float: left;
+  height: 160px;
+}
 
 .kolomStop {
   clear:both;                   /* stop met floaten */
